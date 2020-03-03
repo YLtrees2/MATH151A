@@ -1,0 +1,102 @@
+C1. 
+(a). 
+warning: matrix singular to machine precision
+warning: called from
+    qSplineTest at line 69 column 3
+Panels : 10   Error Max:  9.9999968293e-01
+press any key to advance to next refinement
+fs =  # panels            Error
+  10                 9.9999968293e-01
+
+(b).
+Panels : 10   Error Max:  1.9919352840e-04
+press any key to advance to next refinement
+fs =  # panels            Error
+  10                 1.9919352840e-04
+
+(c).
+Panels : 10   Error Max:  1.9919352840e-04
+press any key to advance to next refinement
+Panels : 20   Error Max:  2.4541292142e-05
+press any key to advance to next refinement
+Panels : 40   Error Max:  3.0027632551e-06
+press any key to advance to next refinement
+Panels : 80   Error Max:  3.4053095033e-07
+press any key to advance to next refinement
+Panels : 160  Error Max:  4.2261752875e-08
+press any key to advance to next refinement
+Panels : 320  Error Max:  5.2702924247e-09
+press any key to advance to next refinement
+fs =  # panels            Error                    Order
+  10                 1.9919352840e-04
+  20                 2.4541292142e-05             3.0208876599e+00
+  40                 3.0027632551e-06             3.0308485724e+00
+  80                 3.4053095033e-07             3.1404329003e+00
+  160                4.2261752875e-08             3.0103614167e+00
+  320                5.2702924247e-09             3.0033976888e+00
+
+(d).
+Using boundary condition of ii:
+Panels : 10   Error Max:  5.0179846464e-02
+press any key to advance to next refinement
+Panels : 20   Error Max:  2.5021635920e-02
+press any key to advance to next refinement
+Panels : 40   Error Max:  1.2003002763e-02
+press any key to advance to next refinement
+Panels : 80   Error Max:  6.0003405310e-03
+press any key to advance to next refinement
+Panels : 160  Error Max:  3.0000422618e-03
+press any key to advance to next refinement
+Panels : 320  Error Max:  1.5000052703e-03
+press any key to advance to next refinement
+fs =  # panels            Error                    Order
+  10                 5.0179846464e-02
+  20                 2.5021635920e-02             1.0039319402e+00
+  40                 1.2003002763e-02             1.0597807497e+00
+  80                 6.0003405310e-03             1.0002790827e+00
+  160                3.0000422618e-03             1.0000615546e+00
+  320                1.5000052703e-03             1.0000152545e+00
+
+Using boundary condition of iii:
+Panels : 10   Error Max:  5.1564227804e-04
+press any key to advance to next refinement
+Panels : 20   Error Max:  6.4068261548e-05
+press any key to advance to next refinement
+Panels : 40   Error Max:  8.0021382923e-06
+press any key to advance to next refinement
+Panels : 80   Error Max:  9.6551141926e-07
+press any key to advance to next refinement
+Panels : 160  Error Max:  1.2038614250e-07
+press any key to advance to next refinement
+Panels : 320  Error Max:  1.5035898304e-08
+press any key to advance to next refinement
+fs =  # panels            Error                    Order
+  10                 5.1564227804e-04
+  20                 6.4068261548e-05             3.0086888071e+00
+  40                 8.0021382923e-06             3.0011523778e+00
+  80                 9.6551141926e-07             3.0510203341e+00
+  160                1.2038614250e-07             3.0036239875e+00
+  320                1.5035898304e-08             3.0011863669e+00
+
+Using boundary condition of iv:
+Panels : 10   Error Max:  5.0558152102e-04
+press any key to advance to next refinement
+Panels : 20   Error Max:  6.3763602276e-05
+press any key to advance to next refinement
+Panels : 40   Error Max:  7.9926331247e-06
+press any key to advance to next refinement
+Panels : 80   Error Max:  9.9976994625e-07
+press any key to advance to next refinement
+Panels : 160  Error Max:  1.2499281208e-07
+press any key to advance to next refinement
+Panels : 320  Error Max:  1.5624561771e-08
+press any key to advance to next refinement
+fs =  # panels            Error                    Order
+  10                 5.0558152102e-04
+  20                 6.3763602276e-05             2.9871386933e+00
+  40                 7.9926331247e-06             2.9959903618e+00
+  80                 9.9976994625e-07             2.9990028042e+00
+  160                1.2499281208e-07             2.9997510266e+00
+  320                1.5624561771e-08             2.9999575011e+00
+
+(e). I would recommend using (iii) or (iv), because using these two boundary conditions gives us a reasonable estimation of F¡ä(x0), and the orders of convergence are both about 3, which is the order of convergence of using a known value for F¡ä(x0). (ii) has an order of convergence of about 1, and with the same number of panels (ii) has a much larger error than (iii) and (iv).

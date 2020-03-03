@@ -1,0 +1,20 @@
+>> Approximate root of sin(x/2) - 1    : 3.1415926340
+Initial iterate           : 3.0000000000
+Residual                  : 0.0000000000e+00
+Approximation error bound : 0.0000000000e+00
+Iterations required       : 24
+
+
+>> Approximate root of e^x - tan(x)    : 1.3063269404
+Initial iterate           : 1.3000000000
+Residual                  : -8.8817841970e-16
+Approximation error bound : 1.5064597453e-13
+Iterations required       : 4
+
+
+>> Approximate root of x^3 - 12*x^2 + 3*x + 1    : 0.4515432242
+Initial iterate           : 0.3000000000
+Residual                  : -4.4408920985e-16
+Approximation error bound : 1.9688259717e-09
+Iterations required       : 5
+

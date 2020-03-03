@@ -1,0 +1,328 @@
+(a). Newton's method:
+ans = Approximate root is 5.0000000000
+ans = Error in approximate root of  x^2 - 3.0 is 3.2679491924e+00
+
+ans = Approximate root is 2.8000000000
+ans = Error in approximate root of  x^2 - 3.0 is 1.0679491924e+00
+
+ans = Approximate root is 1.9357142857
+ans = Error in approximate root of  x^2 - 3.0 is 2.0366347815e-01
+
+ans = Approximate root is 1.7427648919
+ans = Error in approximate root of  x^2 - 3.0 is 1.0714084366e-02
+
+ans = Approximate root is 1.7320837413
+ans = Error in approximate root of  x^2 - 3.0 is 3.2933760695e-05
+
+ans = Approximate root is 1.7320508079
+ans = Error in approximate root of  x^2 - 3.0 is 3.1310065651e-10
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 2.2204460493e-16
+
+ans = Approximate root of  x^2 - 3.0 is 1.7320508076
+
+ans = Error in    root of  x^2 - 3.0 is 2.2204460493e-16
+
+
+Modified Newton's method:
+ ans = Approximate root is 5.0000000000
+ans = Error in approximate root of  x^2 - 3.0 is 3.2679491924e+00
+
+ans = Approximate root is 2.8000000000
+ans = Error in approximate root of  x^2 - 3.0 is 1.0679491924e+00
+
+ans = Approximate root is 2.3160000000
+ans = Error in approximate root of  x^2 - 3.0 is 5.8394919243e-01
+
+ans = Approximate root is 2.0796144000
+ans = Error in approximate root of  x^2 - 3.0 is 3.4756359243e-01
+
+ans = Approximate root is 1.9471347947
+ans = Error in approximate root of  x^2 - 3.0 is 2.1508398716e-01
+
+ans = Approximate root is 1.8680014038
+ans = Error in approximate root of  x^2 - 3.0 is 1.3595059628e-01
+
+ans = Approximate root is 1.8190584794
+ans = Error in approximate root of  x^2 - 3.0 is 8.7007671800e-02
+
+ans = Approximate root is 1.7881611042
+ans = Error in approximate root of  x^2 - 3.0 is 5.6110296664e-02
+
+ans = Approximate root is 1.7684090908
+ans = Error in approximate root of  x^2 - 3.0 is 3.6358283195e-02
+
+ans = Approximate root is 1.7556820195
+ans = Error in approximate root of  x^2 - 3.0 is 2.3631211965e-02
+
+ans = Approximate root is 1.7474400842
+ans = Error in approximate root of  x^2 - 3.0 is 1.5389276594e-02
+
+ans = Approximate root is 1.7420853994
+ans = Error in approximate root of  x^2 - 3.0 is 1.0034591820e-02
+
+ans = Approximate root is 1.7385992455
+ans = Error in approximate root of  x^2 - 3.0 is 6.5484379435e-03
+
+ans = Approximate root is 1.7363265119
+ans = Error in approximate root of  x^2 - 3.0 is 4.2757042939e-03
+
+ans = Approximate root is 1.7348435363
+ans = Error in approximate root of  x^2 - 3.0 is 2.7927287141e-03
+
+ans = Approximate root is 1.7338753267
+ans = Error in approximate root of  x^2 - 3.0 is 1.8245191758e-03
+
+ans = Approximate root is 1.7332429619
+ans = Error in approximate root of  x^2 - 3.0 is 1.1921543064e-03
+
+ans = Approximate root is 1.7328298454
+ans = Error in approximate root of  x^2 - 3.0 is 7.7903781740e-04
+
+ans = Approximate root is 1.7325599181
+ans = Error in approximate root of  x^2 - 3.0 is 5.0911051126e-04
+
+ans = Approximate root is 1.7323835311
+ans = Error in approximate root of  x^2 - 3.0 is 3.3272353747e-04
+
+ans = Approximate root is 1.7322682612
+ans = Error in approximate root of  x^2 - 3.0 is 2.1745365262e-04
+
+ans = Approximate root is 1.7321929283
+ans = Error in approximate root of  x^2 - 3.0 is 1.4212076909e-04
+
+ans = Approximate root is 1.7321436942
+ans = Error in approximate root of  x^2 - 3.0 is 9.2886670682e-05
+
+ans = Approximate root is 1.7321115165
+ans = Error in approximate root of  x^2 - 3.0 is 6.0708921295e-05
+
+ans = Approximate root is 1.7320904859
+ans = Error in approximate root of  x^2 - 3.0 is 3.9678365507e-05
+
+ans = Approximate root is 1.7320767408
+ans = Error in approximate root of  x^2 - 3.0 is 2.5933219066e-05
+
+ans = Approximate root is 1.7320677572
+ans = Error in approximate root of  x^2 - 3.0 is 1.6949621207e-05
+
+ans = Approximate root is 1.7320618856
+ans = Error in approximate root of  x^2 - 3.0 is 1.1078071458e-05
+
+ans = Approximate root is 1.7320580481
+ans = Error in approximate root of  x^2 - 3.0 is 7.2405026630e-06
+
+ans = Approximate root is 1.7320555399
+ans = Error in approximate root of  x^2 - 3.0 is 4.7323137236e-06
+
+ans = Approximate root is 1.7320539006
+ans = Error in approximate root of  x^2 - 3.0 is 3.0929899228e-06
+
+ans = Approximate root is 1.7320528291
+ans = Error in approximate root of  x^2 - 3.0 is 2.0215458274e-06
+
+ans = Approximate root is 1.7320521288
+ans = Error in approximate root of  x^2 - 3.0 is 1.3212614023e-06
+
+ans = Approximate root is 1.7320516711
+ans = Error in approximate root of  x^2 - 3.0 is 8.6356285189e-07
+
+ans = Approximate root is 1.7320513720
+ans = Error in approximate root of  x^2 - 3.0 is 5.6441583030e-07
+
+ans = Approximate root is 1.7320511765
+ans = Error in approximate root of  x^2 - 3.0 is 3.6889641963e-07
+
+ans = Approximate root is 1.7320510487
+ans = Error in approximate root of  x^2 - 3.0 is 2.4110693775e-07
+
+ans = Approximate root is 1.7320509652
+ans = Error in approximate root of  x^2 - 3.0 is 1.5758503880e-07
+
+ans = Approximate root is 1.7320509106
+ans = Error in approximate root of  x^2 - 3.0 is 1.0299597752e-07
+
+ans = Approximate root is 1.7320508749
+ans = Error in approximate root of  x^2 - 3.0 is 6.7317123209e-08
+
+ans = Approximate root is 1.7320508516
+ans = Error in approximate root of  x^2 - 3.0 is 4.3997787191e-08
+
+ans = Approximate root is 1.7320508363
+ans = Error in approximate root of  x^2 - 3.0 is 2.8756506509e-08
+
+ans = Approximate root is 1.7320508264
+ans = Error in approximate root of  x^2 - 3.0 is 1.8794960477e-08
+
+ans = Approximate root is 1.7320508199
+ans = Error in approximate root of  x^2 - 3.0 is 1.2284195217e-08
+
+ans = Approximate root is 1.7320508156
+ans = Error in approximate root of  x^2 - 3.0 is 8.0288251603e-09
+
+ans = Approximate root is 1.7320508128
+ans = Error in approximate root of  x^2 - 3.0 is 5.2475586099e-09
+
+ans = Approximate root is 1.7320508110
+ans = Error in approximate root of  x^2 - 3.0 is 3.4297509277e-09
+
+ans = Approximate root is 1.7320508098
+ans = Error in approximate root of  x^2 - 3.0 is 2.2416504208e-09
+
+ans = Approximate root is 1.7320508090
+ans = Error in approximate root of  x^2 - 3.0 is 1.4651200253e-09
+
+ans = Approximate root is 1.7320508085
+ans = Error in approximate root of  x^2 - 3.0 is 9.5758756480e-10
+
+ans = Approximate root is 1.7320508082
+ans = Error in approximate root of  x^2 - 3.0 is 6.2586957839e-10
+
+ans = Approximate root is 1.7320508080
+ans = Error in approximate root of  x^2 - 3.0 is 4.0906211751e-10
+
+ans = Approximate root is 1.7320508078
+ans = Error in approximate root of  x^2 - 3.0 is 2.6735880176e-10
+
+ans = Approximate root is 1.7320508077
+ans = Error in approximate root of  x^2 - 3.0 is 1.7474310887e-10
+
+ans = Approximate root is 1.7320508077
+ans = Error in approximate root of  x^2 - 3.0 is 1.1421041890e-10
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 7.4646733239e-11
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 4.8788306728e-11
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 3.1887603669e-11
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 2.0841550707e-11
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 1.3621770378e-11
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 8.9031004791e-12
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 5.8189009167e-12
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 3.8031799932e-12
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 2.4857893521e-12
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 1.6247003742e-12
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 1.0618173008e-12
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 6.9411143500e-13
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 4.5363712786e-13
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 2.9642954757e-13
+
+ans = Approximate root is 1.7320508076
+ans = Error in approximate root of  x^2 - 3.0 is 1.9384494010e-13
+
+ans = Approximate root of  x^2 - 3.0 is 1.7320508076
+
+ans = Error in    root of  x^2 - 3.0 is 1.9384494010e-13
+
+
+
+
+
+(b). Order of convergence of Newton's method:
+ans = alpha is 1.4815747051e+00
+alpha is 1.7772256302e+00
+alpha is 1.9643440603e+00
+alpha is 1.9989371847e+00
+alpha is 1.2244715213e+00
+
+
+Order of convergence of modified Newton's method:
+ans = alpha is 5.3976157122e-01
+alpha is 8.5950349805e-01
+alpha is 9.2493775162e-01
+alpha is 9.5586333748e-01
+alpha is 9.7287820438e-01
+alpha is 9.8292990780e-01
+alpha is 9.8910434263e-01
+alpha is 9.9298540572e-01
+alpha is 9.9545963060e-01
+alpha is 9.9705104010e-01
+alpha is 9.9808043289e-01
+alpha is 9.9874871514e-01
+alpha is 9.9918358607e-01
+alpha is 9.9946700185e-01
+alpha is 9.9965189431e-01
+alpha is 9.9977259107e-01
+alpha is 9.9985141453e-01
+alpha is 9.9990290598e-01
+alpha is 9.9993654885e-01
+alpha is 9.9995853261e-01
+alpha is 9.9997289889e-01
+alpha is 9.9998228765e-01
+alpha is 9.9998842367e-01
+alpha is 9.9999243396e-01
+alpha is 9.9999505496e-01
+alpha is 9.9999676796e-01
+alpha is 9.9999788759e-01
+alpha is 9.9999861941e-01
+alpha is 9.9999909756e-01
+alpha is 9.9999941035e-01
+alpha is 9.9999961424e-01
+alpha is 9.9999974843e-01
+alpha is 9.9999983529e-01
+alpha is 9.9999989146e-01
+alpha is 9.9999993018e-01
+alpha is 9.9999995271e-01
+alpha is 9.9999997263e-01
+alpha is 9.9999998087e-01
+alpha is 9.9999998778e-01
+alpha is 9.9999998297e-01
+alpha is 9.9999998661e-01
+alpha is 9.9999999746e-01
+alpha is 1.0000000087e+00
+alpha is 9.9999996644e-01
+alpha is 1.0000000702e+00
+alpha is 9.9999989204e-01
+alpha is 9.9999992666e-01
+alpha is 1.0000001325e+00
+alpha is 9.9999972238e-01
+alpha is 9.9999959293e-01
+alpha is 1.0000010602e+00
+alpha is 9.9999811655e-01
+alpha is 9.9999948806e-01
+alpha is 1.0000031641e+00
+alpha is 1.0000007741e+00
+alpha is 9.9999350844e-01
+alpha is 9.9998912910e-01
+alpha is 1.0000250148e+00
+alpha is 9.9997729311e-01
+alpha is 1.0000434901e+00
+alpha is 9.9996626843e-01
+alpha is 9.9993759396e-01
+alpha is 1.0000459519e+00
+alpha is 1.0001756467e+00
+alpha is 9.9944303152e-01
+alpha is 1.0005416999e+00
+alpha is 1.0003599700e+00
+alpha is 9.9826785022e-01
+
+
+comment: The computational results agree with the theoretical predictions of order of convergence in both Newton's method and modified Newton's method.
+For Newton's method, the theoretical prediction of alpha is 2, and the computed results are also getting closer and closer to 2 as k increases. However, the last computed result is different, and it is 1.2244715213e+00 because now the error in root is 2.2204460493e-16, and the accuracy is lost since this number is too small ( it is close to the smallest double value Matlab can handle).
+For modified Newton's method, the theoretical prediction of alpha is 1, and the computed results also become stable around 1, so they agree with each other.

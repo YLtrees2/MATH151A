@@ -1,0 +1,1 @@
+C2. Since for small values of h, the calculation of errors involves subtracting two numbers that are very close, the errors become small and inaccurate. Then, since p=log2(diffError(i-1)/diffError(i)), diffError(i-1)/diffError(i) becomes inaccurate and sometimes it can even become 1 when h is small, so the estimation of p becomes very inaccurate, resulting in strange values.

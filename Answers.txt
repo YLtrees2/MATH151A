@@ -1,0 +1,16 @@
+C2.
+a. The bisection method takes 18 iterations, and the Reguli-Falsi method takes 4 iterations.
+b. When the iteration terminates, the residual of the bisection method is 7.6293945295e-07, and the residual of the Reguli-Falsi method is 2.3757196210e-10.
+
+C3.
+a. using the interval [1.0, 1.2]:
+The bisection method takes 17 iterations, and the Reguli-Falsi method takes 7 iterations.
+using the interval [1.0, 2.0]:
+The bisection method takes 19 iterations, and the Reguli-Falsi method takes 91 iterations.
+b. using the interval [1.0, 1.2]:
+The residual of the bisection method is 4.8873530132e-06, and the residual of the Reguli-Falsi method is 3.3439299041e-07.
+using the interval [1.0, 2.0]:
+The residual of the bisection method is 4.9236944029e-06, and the residual of the Reguli-Falsi method is 8.7764183543e-07.
+c. No. Usually the Reguli-Falsi method converges to the root faster than the bisection method, but in some situations it converges slower than bisection method.
+
+
